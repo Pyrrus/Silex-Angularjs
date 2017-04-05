@@ -1,0 +1,12 @@
+{
+    "name": "matt/silex-angular",
+    "require": {
+        "silex/silex": "^2.0"
+    },
+    "authors": [
+        {
+            "name": "matthew brandenburg",
+            "email": "matt.bran87@gmail.com"
+        }
+    ]
+}
